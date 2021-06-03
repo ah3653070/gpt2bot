@@ -40,7 +40,7 @@ a community rather than an individual, which makes it even more fun.
 
 Before running a telegram bot, you can test things out in the console.
 
-Follow [the installation steps](https://github.com/polakowo/gpt2bot#locally) and run the script:
+Follow [the installation steps](https://github.com/ah3653070/gpt2bot) and run the script:
 
 ```
 $ python run_bot.py --type=console
@@ -68,7 +68,7 @@ $ python run_bot.py --type=dialogue
 To get started, first clone this repo:
 
 ```
-$ git clone https://github.com/polakowo/gpt2bot.git
+$ git clone https://github.com/Ah3653070/gpt2bot.git
 $ cd gpt2bot
 ```
 
@@ -91,7 +91,7 @@ Install the requirements:
 $ pip install -r requirements.txt
 ```
 
-Copy a config (see [available configs](https://github.com/polakowo/gpt2bot#configs)):
+Copy a config (see [available configs](https://github.com/ah3653070/gpt2bot#configs)):
 
 ```
 cp configs/medium-cpu.cfg my_chatbot.cfg
