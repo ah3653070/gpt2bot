@@ -5,7 +5,7 @@ logger = setup_logger(__name__)
 
 def start_message():
     print("Bot:",
-          "Just start texting me. "
+          "Just start texting me contact my developer @Royalbotz . "
           "If I'm getting annoying, type \"/reset\". "
           "To quit the chat, press Ctrl-C.")
 
